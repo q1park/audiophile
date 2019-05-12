@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+data/ami_test.hdf5
+data/ami_train.hdf5
+data/amicorpus/
+data/db_download/
+data/rttm/
+data/words/
